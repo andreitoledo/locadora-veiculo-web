@@ -3,7 +3,7 @@
 
 #### Sobre:
 
-Em um sistema simples de Locadora de Veículos, desenvolvido no curso de (JPA e Hibernate além do básico - um projeto completo), da Algaworks, a idéia aqui é mostrar algumas tecnologias que o Java nos proporciona para nossos projetos web, se eu for listar aqui o tanto de dicas, macetes, boas práticas que esse projeto traz, a lista ficaria extensa, da uma olhada com calma, muita coisa boa para usar em seu projeto web você pode tirar daqui.
+Em um sistema simples de Locadora de Veículos, desenvolvido no curso de (JPA e Hibernate além do básico - um projeto completo), a idéia aqui é mostrar algumas tecnologias que o Java nos proporciona para nossos projetos web, se eu for listar aqui o tanto de dicas, macetes, boas práticas que esse projeto traz, a lista ficaria extensa, da uma olhada com calma, muita coisa boa para usar em seu projeto web você pode tirar daqui.
 
 #### Tecnologias:
 Sistema desenvolvido utilizando uma plataforma baseada na tecnologia Java EE.
